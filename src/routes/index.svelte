@@ -23,6 +23,8 @@
 		to your new<br />SvelteKit app
 	</h1>
 
+	<h1 class="text-3xl font-bold underline">Hey this is the main heading</h1>
+
 	<h2>
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
